@@ -8,7 +8,7 @@ permalink: /publications
 * Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, “A Graphical RDF-based Meta-Model Management Tool”, IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377, (2006), DOI: [10.1093/ietisy/e89-d.4.1368](http://doi.org/10.1093/ietisy/e89-d.4.1368)
 
 ## Paper in Refereed Conference
-* Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, “MR3: Meta-Model Management Based on RDFs Revision Reflection”, Proceedings of the Joint Conference on Knowledge Based Software Engineering, Frontiers in Artificial Intelligence and Applications Vol.108 pp.228-236, Protvino, Russia, (2004.8)[[Web](http://www.iospress.nl/book/knowledge-based-software-engineering-4/)]
+* Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, “MR<sup>3</sup>: Meta-Model Management Based on RDFs Revision Reflection”, Proceedings of the Joint Conference on Knowledge Based Software Engineering, Frontiers in Artificial Intelligence and Applications Vol.108 pp.228-236, Protvino, Russia, (2004.8)[[Web](http://www.iospress.nl/book/knowledge-based-software-engineering-4/)]
 * Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, “Meta-Model Management Environment for RDF Contents”, Proceedings of the 2nd International Conference on Global Research and Education Vol.2 pp.307-314, Warsaw University of Technology, Warsaw, Poland, (2003.9)
 
 ## Posters

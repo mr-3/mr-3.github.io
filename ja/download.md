@@ -22,5 +22,5 @@ MR<sup>3</sup>はフリーソフトウェアです．Free Software Foundation �
 * [exewrap](http://exewrap.sourceforge.jp/)
 
 ## 謝辞
-* 上田俊夫様より，多大なご助言をいただきました
+* 上田俊夫 様より，多大なご助言をいただきました
 * 程涛 様 より，[中国語版言語ファイル](https://github.com/mr-3/MR3/blob/master/src/main/java/net/sourceforge/mr3/resources/MR3_zh.properties) (MR<sup>3</sup> 1.0RC5以降には組み込まれています)を作成いただきました
