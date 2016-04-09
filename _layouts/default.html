@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}MRCube</title>
 
     {% include meta.html %}
 
@@ -26,7 +26,7 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 		  <div style="text-align:right; font-size: 80%;">
-			  [<a href="{{site.baseurl}}/">English</a>][<a href="{{site.baseurl}}/ja/">Japanese</a>]
+			  <a href="{{site.baseurl}}/">English</a> | <a href="{{site.baseurl}}/ja/">Japanese</a>
 		  </div>
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
@@ -35,6 +35,7 @@
             <a href="http://docs.mrcube.org/en/latest/">Documents</a>
             <a href="{{ site.baseurl }}/publications">Publications</a>
             <a href="{{ site.baseurl }}/videos">Videos</a>
+            <a href="{{ site.baseurl }}/members">Members</a>
           </nav>
         </header>
       </div>

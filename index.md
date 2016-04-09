@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Home
+layout: default
 permalink: /index
 ---
 
@@ -11,6 +10,8 @@ permalink: /index
 * 2005-12-04: MR<sup>3</sup> 1.0 RC3 Released.
 * 2005-10-31: MR<sup>3</sup> 1.0 RC2 Released.
 
+[Change log](https://github.com/mr-3/MR3/commits/master)
+
 ## What is MR<sup>3</sup> ?
 MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection) is an editing tool of RDF-based contents developed for managing a relationship between RDF and RDFS contents.
 
@@ -20,13 +21,13 @@ The Semantic Web is one of the most promised candidates as the Web tomorrow, who
 ## Features
 MR<sup>3</sup> provides the three main functions to edit and to manage the several sorts of relationship among RDF and RDFS contents as follows.
 
-**Graphical Editing of RDF Descriptions**<br/>
+#### 1. Graphical Editing of RDF Descriptions
 Based on the semantics of RDF data model, the tool supports to edit the resource-property-value relation.
 
-**Graphical Editing of RDFS Descriptions**<br/>
+#### 2. Graphical Editing of RDFS Descriptions
 Based on the semantics of RDF Schema model, the tool supports to edit the class-subclass relation and to add the information of properties such as range, domain, sub-property, and so on.
 
-**Meta-Model Management Facilities**<br/>
+#### 3. Meta-Model Management Facilities
 In order to reflect the change of RDF or RDFS contents on the other, the tool supports the correspondence between them.
 
 The above function consisted of the following sub-functions.
@@ -38,15 +39,8 @@ The above function consisted of the following sub-functions.
 * Reflecting the change of RDF resources on the corresponding RDFS resources, not only editing RDF resources but also loading new resources.
 * Reflecting the change of RDFS resources on the corresponding RDF resources, as the same time above.
 
-## Project Member
-* [Takeshi Morita](http://t-morita.me/) (Faculty of Science and Technology, Keio University, Japan)
-* [Naoki Fukuta](http://whitebear.cs.inf.shizuoka.ac.jp/index?) (Department of Computer Science, Shizuoka University, Japan)
-* Noriaki Izumi (National Institute of Advanced Industrial Science and Technology, Japan)
-* [Takahira Yamaguchi](http://www.yamaguti.comp.ae.keio.ac.jp/) (Faculty of Science and Technology, Keio University, Japan)
 
 ## Related Projects
 * [DODDLE-OWL](http://doddle-owl.org/)
 
-## Contact
-* Takeshi Morita (t_morita@ae.keio.ac.jp)
 
