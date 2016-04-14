@@ -4,7 +4,7 @@ title: Download
 permalink: /download
 ---
 
-* <a href="https://sourceforge.net/projects/mr3/files/MR_3/MR3_1.0/">MR<sup>3</sup> 1.0</a>
+* <a href="https://sourceforge.net/projects/mr3/files/MR_3/MR3_1.0.1/">MR<sup>3</sup> 1.0.1</a>
 * [Document (EPUB)](http://readthedocs.org/projects/mrcube/downloads/epub/latest/)
 
 ## License

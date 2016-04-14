@@ -4,11 +4,11 @@ permalink: /ja/index
 ---
 
 ## 新着情報
+* 2016-04-14: MR<sup>3</sup> 1.0.1 公開.
 * 2015-03-16: MR<sup>3</sup> 1.0 公開.
 * 2005-12-29: MR<sup>3</sup> 1.0 RC5 公開.
 * 2005-12-19: MR<sup>3</sup> 1.0 RC4 公開.
 * 2005-12-04: MR<sup>3</sup> 1.0 RC3 公開.
-* 2005-10-31: MR<sup>3</sup> 1.0 RC2 公開.
 
 [更新履歴](history.html)
 

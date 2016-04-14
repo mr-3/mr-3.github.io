@@ -4,11 +4,11 @@ permalink: /index
 ---
 
 ## What’s New
+* 2016-04-14: MR<sup>3</sup> 1.0.1 Released.
 * 2015-03-16: MR<sup>3</sup> 1.0 Released.
 * 2005-12-29: MR<sup>3</sup> 1.0 RC5 Released.
 * 2005-12-19: MR<sup>3</sup> 1.0 RC4 Released.
 * 2005-12-04: MR<sup>3</sup> 1.0 RC3 Released.
-* 2005-10-31: MR<sup>3</sup> 1.0 RC2 Released.
 
 [Change log](https://github.com/mr-3/MR3/commits/master)
 
