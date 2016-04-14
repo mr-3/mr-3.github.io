@@ -3,6 +3,10 @@ layout: ja_page
 title: 更新履歴
 permalink: /ja/history
 ---
+
+### 1.0.1 (2016-04-14)
+* [GitHub](https://github.com/mr-3/MR3/commits/master)を参照してください
+
 ### 1.0 (2015-03-16)
 * [GitHub](https://github.com/mr-3/MR3/commits/master)を参照してください
 
