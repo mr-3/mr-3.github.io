@@ -46,6 +46,6 @@ RDFとRDFSの間の整合性を管理し，変更を双方向に反映させる�
 
 
 ## 関連プロジェクト
-* [DODDLE-OWL](http://doddle-owl.org/?lang=ja)
+* [DODDLE-OWL](http://doddle-owl.github.io)
 
 
