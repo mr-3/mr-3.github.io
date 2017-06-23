@@ -41,6 +41,6 @@ The above function consisted of the following sub-functions.
 
 
 ## Related Projects
-* [DODDLE-OWL](http://doddle-owl.org/)
+* [DODDLE-OWL](http://doddle-owl./)
 
 
