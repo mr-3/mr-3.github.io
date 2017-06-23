@@ -4,7 +4,7 @@ title: ダウンロード
 permalink: /ja/download
 ---
 
-* <a href="https://sourceforge.net/projects/mr3/files/MR_3/MR3_1.0.1/">MR<sup>3</sup> 1.0.1</a>
+* <a href="https://github.com/mr-3/MR3/releases">MR<sup>3</sup> 1.0.1</a>
 * [ドキュメント (EPUB)](http://readthedocs.org/projects/mrcube-ja/downloads/epub/latest/)
 
 ## ライセンス
