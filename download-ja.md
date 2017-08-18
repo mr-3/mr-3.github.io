@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 title: ダウンロード
-permalink: /ja/download
+permalink: /download-ja.html
 ---
 
 * <a href="https://github.com/mr-3/MR3/releases">MR<sup>3</sup> 1.0.1</a>

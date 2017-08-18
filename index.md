@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /index
+permalink: /index.html
 ---
 
 ## What’s New
@@ -40,7 +40,11 @@ The above function consisted of the following sub-functions.
 * Reflecting the change of RDFS resources on the corresponding RDF resources, as the same time above.
 
 
-## Related Projects
-* [DODDLE-OWL](http://doddle-owl.github.io/)
+## Members
+* [Takeshi Morita](http://t-morita.me/) (Faculty of Science and Technology, Keio University, Japan)
+* [Naoki Fukuta](http://whitebear.cs.inf.shizuoka.ac.jp/index?) (Department of Computer Science, Shizuoka University, Japan)
+* Noriaki Izumi (National Institute of Advanced Industrial Science and Technology, Japan)
+* [Takahira Yamaguchi](http://www.yamaguti.comp.ae.keio.ac.jp/) (Faculty of Science and Technology, Keio University, Japan)
 
-
+## Contact
+* Takeshi Morita (t_morita@keio.jp)

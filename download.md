@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-permalink: /download
+permalink: /download.html
 ---
 
 * <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup> 1.0.1</a>

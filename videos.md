@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Videos
-permalink: /videos
+permalink: /videos.html
 ---
 
 [RDF Primer](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/) [Example 1](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/#example1): RDF/XML Describing Eric Miller

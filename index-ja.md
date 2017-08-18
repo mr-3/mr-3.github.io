@@ -1,6 +1,6 @@
 ---
 layout: ja_default
-permalink: /ja/index
+permalink: /index-ja.html
 ---
 
 ## 新着情報
@@ -45,7 +45,11 @@ RDFとRDFSの間の整合性を管理し，変更を双方向に反映させる�
 * RDFSクラス及びプロパティの変更をRDFリソースのタイプ及びプロパティに反映させる機能
 
 
-## 関連プロジェクト
-* [DODDLE-OWL](http://doddle-owl.github.io)
+## メンバー
+* [森田 武史](http://takeshi-morita.jp/index-ja.html) (慶應義塾大学 理工学部)
+* [福田 直樹](http://whitebear.cs.inf.shizuoka.ac.jp/index-j?dmy=x) (静岡大学 情報学部)
+* 和泉 憲明 (産業技術総合研究所)
+* [山口 高平](http://www.yamaguti.comp.ae.keio.ac.jp/) (慶應義塾大学 理工学部)
 
-
+## 連絡先
+* 森田 武史 (t_morita@keio.jp)

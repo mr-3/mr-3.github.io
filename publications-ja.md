@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 title: 発表論文
-permalink: /ja/publications
+permalink: /publications-ja.html
 ---
 
 ## 原著論文
