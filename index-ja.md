@@ -10,7 +10,7 @@ permalink: /index-ja.html
 * 2005-12-19: MR<sup>3</sup> 1.0 RC4 公開.
 * 2005-12-04: MR<sup>3</sup> 1.0 RC3 公開.
 
-[更新履歴](history.html)
+[更新履歴](history-ja.html)
 
 ## MR<sup>3</sup>とは
 MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection) は，次世代Webの候補の1つであるセマンティックWebにおける[RDF (Resource Description Framework)](http://www.w3.org/TR/rdf-syntax-grammar/)及び[RDFS (RDF Schema)](http://www.w3.org/TR/rdf-schema/)の視覚的な編集とそれらの間の関係を管理する機能を持つエディタです．

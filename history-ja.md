@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 title: 更新履歴
-permalink: /ja/history
+permalink: /history-ja.html
 ---
 
 ### 1.0.1 (2016-04-14)
