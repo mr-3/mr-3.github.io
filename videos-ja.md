@@ -1,6 +1,6 @@
 ---
 layout: ja_page
-title: 動画
+ja_title: 動画
 permalink: /videos-ja.html
 ---
 
@@ -16,10 +16,10 @@ permalink: /videos-ja.html
         </contact:Person>
     </rdf:RDF>
 
-## デモ動画1（トップダウン）
+# デモ動画1（トップダウン）
 <div style="text-align: center;"><iframe width="500" height="400" src="https://www.youtube.com/embed/kmgZxMg6a9c" frameborder="0" allowfullscreen></iframe></div>
 
-## デモ動画2（ボトムアップ）
+# デモ動画2（ボトムアップ）
 <div style="text-align: center;"><iframe width="500" height="400" src="https://www.youtube.com/embed/HXfgCO8pefU" frameborder="0" allowfullscreen></iframe></div>
 
 [RDF Primer](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/) [Example 14](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/#example14): RDF/XML for a Bag of Students
@@ -41,5 +41,5 @@ permalink: /videos-ja.html
     </rdf:RDF>
 
 
-## デモ動画3
+# デモ動画3
 <div style="text-align: center;"><iframe width="500" height="400" src="https://www.youtube.com/embed/08W4e5cIS-A" frameborder="0" allowfullscreen></iframe></div>

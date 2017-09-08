@@ -16,10 +16,10 @@ permalink: /videos.html
         </contact:Person>
     </rdf:RDF>
 
-## Demo Video 1（Top Down）
+# Demo Video 1（Top Down）
 <div style="text-align: center;"><iframe width="500" height="400" src="https://www.youtube.com/embed/kmgZxMg6a9c" frameborder="0" allowfullscreen></iframe></div>
 
-## Demo Video 2（Bottom Up）
+# Demo Video 2（Bottom Up）
 <div style="text-align: center;"><iframe width="500" height="400" src="https://www.youtube.com/embed/HXfgCO8pefU" frameborder="0" allowfullscreen></iframe></div>
 
 [RDF Primer](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/) [Example 14](https://www.w3.org/TR/2004/REC-rdf-primer-20040210/#example14): RDF/XML for a Bag of Students
@@ -41,6 +41,6 @@ permalink: /videos.html
     </rdf:RDF>
 
 
-## Demo Video 3
+# Demo Video 3
 <div style="text-align: center;"><iframe width="500" height="400" src="https://www.youtube.com/embed/08W4e5cIS-A" frameborder="0" allowfullscreen></iframe></div>
 

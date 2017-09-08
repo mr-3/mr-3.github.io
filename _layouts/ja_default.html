@@ -1,62 +1,20 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}MRCube</title>
 
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-	<link rel="shortcut icon" type="image/svg+xml" sizes="any" href="{{site.baseurl}}/images/mr3.svg" />    
-	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  {% include ja_head.html %}
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/ja/" class="site-avatar"><img src="{{ site.baseurl }}/images/mr3.svg" /></a>
 
-          <div class="site-info">
-	  		<h1 class="site-name">{{ site.name }}</h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+    {% include ja_header.html %}
 
-		  <div style="text-align:right; font-size: 80%;">
-			  <a href="{{site.baseurl}}/">English</a> | <a href="{{site.baseurl}}/index-ja.html">Japanese</a>
-		  </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/index-ja.html">ホーム</a>
-            <a href="{{ site.baseurl }}/download-ja.html">ダウンロード</a>
-            <a href="https://github.com/mr-3/MR3">ソースコード</a>
-            <a href="http://docs.mrcube.org/ja/latest/">ドキュメント</a>
-            <a href="{{ site.baseurl }}/publications-ja.html">発表論文</a>
-            <a href="{{ site.baseurl }}/videos-ja.html">動画</a>
-          </nav>
-        </header>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    {% include footer.html %}
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-			<!-- {% include svg-icons.html %} -->
-		  Copyright &copy; 2016-2017 Takeshi Morita All Rights Reserved.<br/>
-		  Powered by <a href="http://jekyllrb.com/">Jekyll</a>. Hosted by <a href="https://pages.github.com/">GitHub Pages</a>. Theme by <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a>.
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
   </body>
+
 </html>

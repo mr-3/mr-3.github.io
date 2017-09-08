@@ -8,6 +8,10 @@ name: MR<sup>3</sup>
 # Short bio or description (displayed in the header)
 description: Meta-Model Management based on RDFs Revision Reflection
 
+# title
+title: MRCube | Meta-Model Management based on RDFs Revision Reflection
+ja_title: MRCube | Meta-Model Management based on RDFs Revision Reflection 
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: images/mr3.svg
 
@@ -66,16 +70,16 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+#    css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+#gems:
+#  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+#  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:

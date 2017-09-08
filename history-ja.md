@@ -4,33 +4,33 @@ title: 更新履歴
 permalink: /history-ja.html
 ---
 
-### 1.0.1 (2016-04-14)
+# 1.0.1 (2016-04-14)
 * [GitHub](https://github.com/mr-3/MR3/commits/master)を参照してください
 
-### 1.0 (2015-03-16)
+# 1.0 (2015-03-16)
 * [GitHub](https://github.com/mr-3/MR3/commits/master)を参照してください
 
-<h3 id="doc2_1750">1.0 RC5 (2005-12-29)</h3>
+<h1 id="doc2_1750">1.0 RC5 (2005-12-29)</h1>
 <ul>
 <li> 中国語でインタフェースの表示が可能になった(東京工業大学の程涛様にMR3_zh.propertiesを作成して頂きました．）</li>
 </ul>
-<h3 id="doc2_1681">1.0 RC4 (2005-12-19)</h3>
+<h1 id="doc2_1681">1.0 RC4 (2005-12-19)</h1>
 <ul>
 <li> RDFエディタでmr3:nilプロパティをプロパティエディタで定義されていないプロパティに変更しようとした時に，メタモデル管理機能によって名前変更と新規作成の両方を尋ねていたのを，新規作成するかどうかのみ尋ねるように修正．</li>
 <li> リソースディレクトリをオプションダイアログで設定できるようにした．（デフォルトはインストールディレクトリ/resources．MR3_ドメイン.propertiesファイルを読み込む．）</li>
 </ul>
-<h4 id="doc2_1692">不具合修正</h4>
+<h2 id="doc2_1692">不具合修正</h2>
 <ul>
 <li> RDFまたはRDFS要素をコピーした状態で，MR3を再起動した際にペースト時に例外が発生していたのを修正．</li>
 <li> 各エディタでコピーした内容を別のエディタでペーストできていたのを修正．(例：クラスをコピーした状態で，RDFエディタにペーストできていた．）</li>
 </ul>
-<h3 id="doc2_1705">1.0 RC3 (2005-12-04)</h3>
+<h1 id="doc2_1705">1.0 RC3 (2005-12-04)</h1>
 <ul>
 <li> Turtleのインポート，エクスポートができるようになった</li>
 <li> N3-PP, N3-PLAIN, N3-TRIPLEのエクスポートができるようになった</li>
 <li> エクスポートダイアログにUTF-8でURLエンコードするオプションを追加</li>
 </ul>
-<h4 id="doc2_1719">不具合修正</h4>
+<h2 id="doc2_1719">不具合修正</h2>
 <ul>
 <li> コピーしたブランクノードのＩＤが同一になっていたのを修正</li>
 <li> インポート中に例外が発生した時に，インポートダイアログを閉じるように修正．</li>
@@ -39,7 +39,7 @@ permalink: /history-ja.html
 <li> インポートダイアログで1度追加したフォルダが，再起動後に消える場合があったのを修正．</li>
 <li> デフォルトのプラグインディレクトリを指定した状態で，オプションダイアログで適用ボタンを押すと例外が発生していたのを修正．</li>
 </ul>
-<h3 id="doc2_1744">1.0 RC2 (2005-10-31)</h3>
+<h1 id="doc2_1744">1.0 RC2 (2005-10-31)</h1>
 <ul>
 <li> jdk 5以上のみで動作するようになった</li>
 <li> vowlidatorを利用して，モデルの整合性チェックをできるようにした．</li>
@@ -64,7 +64,7 @@ permalink: /history-ja.html
 <li> エクスポートダイアログで，ファイル保存時に.owl拡張子で保存可能になった．</li>
 <li> その他，細かい修正．</li>
 </ul>
-<h4 id="doc2_1815">不具合修正</h4>
+<h2 id="doc2_1815">不具合修正</h2>
 <ul>
 <li> プロパティエディタで，ノードではなくエッジを選択した状態で，RDFモデルのリソース間をプロパティで接続すると例外が発生していたのを修正．</li>
 <li> いくつかの警告ダイアログがウィンドウの後ろに隠れて見えなくなっていたを修正．</li>
@@ -78,7 +78,7 @@ permalink: /history-ja.html
 <li> RDFプロパティに対応するRDFSプロパティを削除した時，RDFプロパティのURI(Label)の表示が消えていたのを修正．</li>
 <li> プラグインディレクトリの設定時にエラーが発生していたのを修正．</li>
 </ul>
-<h3 id="doc10_13670">1.0 RC1 (2004-02-26)</h3>
+<h1 id="doc10_13670">1.0 RC1 (2004-02-26)</h1>
 <ul>
 <li> ユーザインタフェースを全体的に改良．</li>
 <li> ショートカットキーを設定．</li>
@@ -99,25 +99,25 @@ permalink: /history-ja.html
 <li> Jenaのバージョンを2.1にアップ．</li>
 <li> その他，細かい修正．</li>
 </ul>
-<h4 id="doc10_13729">不具合修正</h4>
+<h2 id="doc10_13729">不具合修正</h2>
 <ul>
 <li> 無名ノードがリテラルを持つ時に，レイアウトがうまくできないことがあったのを修正．</li>
 <li> インポート時にすべての内部フレームが見えなくなっていたのを修正．（エディタのみを隠すようにした）</li>
 <li> RDFリソースのタイプが自動でサイズ変更していなかったのを修正．</li>
 </ul>
-<h3 id="doc10_13745">Beta3.1 (2004-01-24)</h3>
+<h1 id="doc10_13745">Beta3.1 (2004-01-24)</h1>
 <ul>
 <li> リソースを編集するときに修正をリセットできるようにした．</li>
 <li> プラグインマネージャーからプラグインを起動するように変更した．</li>
 </ul>
-<h4 id="doc10_13756">不具合修正</h4>
+<h2 id="doc10_13756">不具合修正</h2>
 <ul>
 <li> <em>名前空間テーブルに登録されていない名前空間をもつＲＤＦリソースを入力すると プロジェクトファイルを開くことができなくなっていたのを修正．</em></li>
 <li> <em>RDFの置き換えを行った後に，置き換える前に使われていたリソースを挿入できなくなっていた のを修正．</em></li>
 <li> 同じ文字列のリテラルのレイアウトがうまくできていなかったのを修正．</li>
 <li> 起動時に設定ダイアログのノードサイズの自動と固定の選択が正しく行われていなかったのを修正．</li>
 </ul>
-<h3 id="doc10_13781">Beta3 (2004-01-22)</h3>
+<h1 id="doc10_13781">Beta3 (2004-01-22)</h1>
 <ul>
 <li> VGJTreeLayoutで，各エディタのノードの水平方向と垂直方向の間隔を指定できるようになった．</li>
 <li> 各グラフを再レイアウトできるようになった．</li>
@@ -135,14 +135,14 @@ permalink: /history-ja.html
 <li> JGraphのバージョンを3.1にアップ</li>
 <li> その他，細かい修正．</li>
 </ul>
-<h4 id="doc10_13831">不具合修正</h4>
+<h2 id="doc10_13831">不具合修正</h2>
 <ul>
 <li> N-Triple形式で出力ができなくなっていたのを修正．</li>
 <li> mergeOntlogyModelを修正．</li>
 <li> replaceRDFSで，クラスとプロパティが空の場合にうまく読み込めなかったのを修正．</li>
 <li> NewProjectでソースダイアログの内容をクリアしていなかったのを修正．</li>
 </ul>
-<h3 id="doc10_13850">Beta2 (2003-12-23)</h3>
+<h1 id="doc10_13850">Beta2 (2003-12-23)</h1>
 <ul>
 <li> 各エディタのポップアップメニューの接続モードメニューを接続モードと移動モードを状況に合わせて変化するように修正した．</li>
 <li> 設定ダイアログの構成を修正．</li>
@@ -159,12 +159,12 @@ permalink: /history-ja.html
 <li> JavaHelpを削除．</li>
 <li> その他細かい修正．</li>
 </ul>
-<h4 id="doc10_13897">不具合修正</h4>
+<h2 id="doc10_13897">不具合修正</h2>
 <ul>
 <li> Literalの編集で言語が扱えなくなっていたのを修正．</li>
 <li> OWLImportPluginで多重継承がうまく扱えなかったのを修正．</li>
 </ul>
-<h3 id="doc10_13910">Beta1 (2003-12-01)</h3>
+<h1 id="doc10_13910">Beta1 (2003-12-01)</h1>
 <ul>
 <li> パッケージ名をorg.semanticweb.mmm.mr3に変更</li>
 <li> デフォルトの名前空間にowlを追加</li>
@@ -177,11 +177,11 @@ permalink: /history-ja.html
 <li> プラグインAPIを追加</li>
 <li> その他細かい修正</li>
 </ul>
-<h4 id="doc10_13945">不具合修正</h4>
+<h2 id="doc10_13945">不具合修正</h2>
 <ul>
 <li> RDFリソースのタイプを非表示にするとコピー，カット，ペーストができなくなるバグを修正</li>
 </ul>
-<h3 id="doc10_13955">Alpha9 (2003-10-06)</h3>
+<h1 id="doc10_13955">Alpha9 (2003-10-06)</h1>
 <ul>
 <li> RDFリソースからRDFSクラス，RDFSプロパティへの変換，RDFSクラスからRDFリソース，RDFSプロパティへの変換，RDFSプロパティか らRDFリソース，RDFSクラスへの変換が可能になった．(ポップアップメニューの「Transform from X to X」)</li>
 <li> デフォルトのLangをEdit-&gt;Preferenceで設定できるようになった．</li>
@@ -196,14 +196,14 @@ permalink: /history-ja.html
 <li> JavaHelpを作成した．（ヘルプ-&gt;ヘルプ）</li>
 <li> その他，細かい修正．</li>
 </ul>
-<h4 id="doc10_13995">不具合修正</h4>
+<h2 id="doc10_13995">不具合修正</h2>
 <ul>
 <li> 初めて起動するときに，各エディタが表示されていなかったのを修正．</li>
 <li> デフォルトの選択時の色とRDFSプロパティの色がRDFリソースの色と同色だったのを修正．</li>
 <li> ポップアップメニュー，ツールバー，ショートカットを使って，Copy, Cut, Pasteを行う際にそれぞれに同期がとれていなかったのを修正．</li>
 <li> MR<sup>3</sup>α7で作成したプロジェクトが読めなくなっていたのを修正．（プロパティにrdf:_1.._nが含まれている場合）</li>
 </ul>
-<h3 id="doc10_14017">Alpha8 (2003-09-05)</h3>
+<h1 id="doc10_14017">Alpha8 (2003-09-05)</h1>
 <ul>
 <li> RDFS Class，RDFS Propertyを判断するためのメタクラスをEdit-&gt;PreferenceのMeta Class Listで指定できるようになった．</li>
 <li> 各グラフのOverviewが表示できるようになった．(Window-&gt;Show RDF Graph Overview, Show Class Graph Overview, Show Property Graph Overview)</li>
@@ -215,23 +215,23 @@ permalink: /history-ja.html
 <li> JGraphのバージョンをJGraph4に変更．</li>
 <li> その他，細かい修正．</li>
 </ul>
-<h4 id="doc10_14049">不具合修正</h4>
+<h2 id="doc10_14049">不具合修正</h2>
 <ul>
 <li> 複数回ペーストする際に，位置が重なっていたのを修正．</li>
 </ul>
-<h3 id="doc10_14059">Alpha7 (2003-07-31)</h3>
+<h1 id="doc10_14059">Alpha7 (2003-07-31)</h1>
 <ul>
 <li> 各グラフのノードの色を変更できるようになった．</li>
 <li> 標準出力と標準エラー出力をウィンドウに表示できるようになった．(メニュー- &gt;Window-&gt;Log Consoleで表示)</li>
 </ul>
-<h4 id="doc10_14070">不具合修正</h4>
+<h2 id="doc10_14070">不具合修正</h2>
 <ul>
 <li> <em>New Project後に，RDFプロパティの編集ができなくなっていたのを修正．</em></li>
 <li> <em>プロジェクトの保存で，RDFSクラス及びプロパティのlabelとcommentを保   存できなかったのを修正．その他，プロジェクトの保存関連の不具合を修正．</em></li>
 <li> RDFプロパティ編集中に，RDFSプロパティの新規作成または，名前の変更を行った直後に，Attribute DialogのProperty IDに変更が反映されていなかったのを修正．</li>
 <li> プロジェクト保存時に，AnonymousリソースがRDFAnon1..nと復元される場合があったのを修正．</li>
 </ul>
-<h3 id="doc10_14093">Alpha6 (2003-07-24)</h3>
+<h1 id="doc10_14093">Alpha6 (2003-07-24)</h1>
 <ul>
 <li> importのエンコーディングを指定できるようになった．</li>
 <li> ツールバーに，名前空間テーブルを表示するためのボタンを追加した．</li>
@@ -245,7 +245,7 @@ permalink: /history-ja.html
 <li> コピー（Ctrl-C)，カット(Ctrl-X)，ペースト(Ctrl-V)のショートカットキーを設定した．</li>
 <li> よく使われる名前空間の接頭辞は，import時に名前空間テーブルに反映するようにした.（rss, foaf, dc)</li>
 </ul>
-<h4 id="doc10_14130">不具合修正</h4>
+<h2 id="doc10_14130">不具合修正</h2>
 <ul>
 <li> Linuxで，クラスまたはプロパティを挿入する際に，IDを選択できなくなっていたバグを修正．</li>
 <li> クラス及びプロパティのCommentを削除できなかったのを修正．</li>
@@ -261,7 +261,7 @@ permalink: /history-ja.html
 <li> RDFSプロパティを初めて挿入したときには，挿入したプロパティではなく，mr3:Propertyの表示内容がAttribute Dialogに表示されていたのを修正．</li>
 <li> その他，細かい修正．</li>
 </ul>
-<h3 id="doc10_14175">Alpha5 (2003-06-27)</h3>
+<h1 id="doc10_14175">Alpha5 (2003-06-27)</h1>
 <ul>
 <li> Convertメニューに，Selected RDFとSelected RDFSメニューを追加した．選択しているリソースを，XML表現または，N-Tripleに変換可能になった．</li>
 <li> 選択しているリソースを，XML表現または，N-Triple表現で保存(export)可能になった．(RDF及びRDFSで可能)</li>
@@ -277,7 +277,7 @@ permalink: /history-ja.html
 <li> exportで，ファイルのエンコーディングを選択できるようになった．</li>
 <li> その他，細かい修正をした．</li>
 </ul>
-<h4 id="doc10_14218">不具合修正</h4>
+<h2 id="doc10_14218">不具合修正</h2>
 <ul>
 <li> ソースコードを表示するウィンドウが前面に表示されなかったのを修正．</li>
 <li> ファイル出力時のエンコーディングがnullになるのを修正した．(EncodingをUTF-8または，UTF-16にすると，nullになる)</li>
@@ -285,15 +285,15 @@ permalink: /history-ja.html
 <li> プロジェクト保存時に，URIのタイプを保存できていなかったのを修正．</li>
 <li> RDF/XMLをimportする際に，URIとIDの判別ができていなかったのを修正．</li>
 </ul>
-<h3 id="doc10_14240">Alpha4 (2003-06-16)</h3>
+<h1 id="doc10_14240">Alpha4 (2003-06-16)</h1>
 <ul>
 <li> RDF Editorのポップアップメニューに，Insert Connected ResourceとInsertConnected Literalメニューを追加した．(選択されているリソースと矢印でつながった状態で，リソース（リテラル）が挿入される）</li>
 </ul>
-<h4 id="doc10_14248">不具合修正</h4>
+<h2 id="doc10_14248">不具合修正</h2>
 <ul>
 <li> <em>同じＩＤを持つはずの無名リソースがすべて違うＩＤを持ってしまうバグを修正．</em></li>
 </ul>
-<h3 id="doc10_14261">Alpha3 (2003-06-12)</h3>
+<h1 id="doc10_14261">Alpha3 (2003-06-12)</h1>
 <ul>
 <li> プロジェクトの保存，復元が可能になった．</li>
 <li> Windowメニューから各エディタを選択することによって，選択したEditorを手前に表示可能になった．</li>
@@ -306,7 +306,7 @@ permalink: /history-ja.html
 <li> Select Resource Typeダイアログ及びSelect Region Dialogで，クラスの検索が可能になった．</li>
 <li> RDF EditorでInsert Resourceを実行したときの入力ダイアログで，プルダウンメニューから，リソースのタイプを選択できるようになった．</li>
 </ul>
-<h4 id="doc10_14295">不具合修正</h4>
+<h2 id="doc10_14295">不具合修正</h2>
 <ul>
 <li> RDF Editorでコピーしたリソースのタイプが設定できなくなっていたのを修正．</li>
 <li> RDFリソースのURITypeがANONYMOUSの時，コピー，カットができなかったのを修正．</li>
@@ -315,7 +315,7 @@ permalink: /history-ja.html
 <li> すべてのEditorでノードを追加したとき、Attribute Dialogに表示が反映されていなかったのを修正．</li>
 <li> RDFSクラスを削除したときに，RDFSプロパティのdomain, rangeとRDFSクラスの一貫性が保持できていなかったのを修正．</li>
 </ul>
-<h3 id="doc10_14320">Alpha2 (2003-06-02)</h3>
+<h1 id="doc10_14320">Alpha2 (2003-06-02)</h1>
 <ul>
 <li> RDF Editorのリソースを選んだ時、Class EditorやProperty Editorの対応するリソースが選択されるようになった．</li>
 <li> 選択されているリソースの色が変更されるようになった．</li>
@@ -327,12 +327,12 @@ permalink: /history-ja.html
 <li> Class Editor, Property Editor, RDF Editorのそれぞれにコピー，カット，ペースト機能を追加した．RDFSプロパティのdomainとrange，RDFリソースのタイプ，RDFプロ パティのdomain, rangeのコピー，カットは行うことができない．</li>
 <li> Proxyの設定が可能となった．</li>
 </ul>
-<h4 id="doc10_14351">不具合修正</h4>
+<h2 id="doc10_14351">不具合修正</h2>
 <ul>
 <li> JDK1.4.2 BetaでAttributeDialogの表示がくずれていたバグを修正した．</li>
 <li> RDF Editorでリソースを編集しているとき、Attribute Dialogを使ってURI TypeをURI,ID,ANONYMOUSとあるラジオボックスを順にクリックするとそれがRDF Editorに反映されてしまうバグを修正．Applyボタンを押すことで反映されるようになった．</li>
 </ul>
-<h3 id="doc10_14363">Alpha1 (2003-05-15)</h3>
+<h1 id="doc10_14363">Alpha1 (2003-05-15)</h1>
 <ul>
 <li> 初公開の版</li>
 </ul>

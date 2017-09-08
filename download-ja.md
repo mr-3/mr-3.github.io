@@ -1,16 +1,16 @@
 ---
 layout: ja_page
-title: ダウンロード
+ja_title: ダウンロード
 permalink: /download-ja.html
 ---
 
 * <a href="https://github.com/mr-3/MR3/releases">MR<sup>3</sup> 1.0.1</a>
 * [ドキュメント (EPUB)](http://readthedocs.org/projects/mrcube-ja/downloads/epub/latest/)
 
-## ライセンス
+# ライセンス
 MR<sup>3</sup>はフリーソフトウェアです．Free Software Foundation による [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) のバージョン2 （または，それ以降のバージョン）に従う限り自由に変更し再配布することができます．
 
-## 利用ライブラリ
+# 利用ライブラリ
 * [JGraph](http://www.jgraph.com/)
 * [Jena 2 Semantic Web Toolkit](http://jena.sourceforge.net/)
 * [InfoNode Docking Windows](http://www.infonode.net/index.html?idw)
@@ -21,6 +21,6 @@ MR<sup>3</sup>はフリーソフトウェアです．Free Software Foundation �
 * [Silk Icons](http://www.famfamfam.com/)
 * [exewrap](http://exewrap.sourceforge.jp/)
 
-## 謝辞
+# 謝辞
 * 上田俊夫 様より，多大なご助言をいただきました
 * 程涛 様 より，[中国語版言語ファイル](https://github.com/mr-3/MR3/blob/master/src/main/java/net/sourceforge/mr3/resources/MR3_zh.properties) (MR<sup>3</sup> 1.0RC5以降には組み込まれています)を作成いただきました
