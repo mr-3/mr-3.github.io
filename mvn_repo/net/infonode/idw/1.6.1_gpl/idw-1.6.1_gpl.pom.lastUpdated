@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 18 12:54:37 JST 2018
+http\://mr3.sourceforge.net/m2repository/.error=
+https\://mvnrepository.com/artifact/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1426469749775
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1545105276596
+http\://mrcube.org/mvn_repo/.lastUpdated=1545105275435
+http\://repo.maven.apache.org/maven2/.error=
+http\://doddle-owl.sourceforge.net/m2repository/.lastUpdated=1426470389660
+http\://jfontchooser.sourceforge.jp/repository/.lastUpdated=1426469749555
+http\://jfontchooser.sourceforge.jp/repository/.error=
+https\://mvnrepository.com/artifact/.lastUpdated=1545105275048
+http\://mrcube.org/mvn_repo/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1545105277058
+https\://repo.maven.apache.org/maven2/.error=
+@default-http\://mr3.sourceforge.netm2repository/.lastUpdated=1426469997929
+http\://mr3.sourceforge.net/m2repository/.lastUpdated=1426469954797
+http\://mr3.sourceforge.netm2repository/.error=Could not transfer artifact net.infonode\:idw\:pom\:1.6.1_gpl from/to net.sourceforge.doddle-owl (http\://mr3.sourceforge.netm2repository)\: mr3.sourceforge.netm2repository\: unknown error
