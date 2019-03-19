@@ -4,11 +4,9 @@ permalink: /index-ja.html
 ---
 
 # 新着情報
+* 2019-03-06: MR<sup>3</sup> 2019.03_1 公開.
 * 2016-04-14: MR<sup>3</sup> 1.0.1 公開.
 * 2015-03-16: MR<sup>3</sup> 1.0 公開.
-* 2005-12-29: MR<sup>3</sup> 1.0 RC5 公開.
-* 2005-12-19: MR<sup>3</sup> 1.0 RC4 公開.
-* 2005-12-04: MR<sup>3</sup> 1.0 RC3 公開.
 
 [更新履歴](history-ja.html)
 
@@ -37,16 +35,15 @@ RDFとRDFSの間の整合性を管理し，変更を双方向に反映させる�
 上記の機能の詳細は以下のようになっています．
 
 * RDFファイルをインポートし，RDFデータモデルを視覚的に表示・編集する機能
-* RDFデータグラフを様々なRDF構文 (RDF/XML, N-Triple, N3)に基づいてファイルにエクスポートする機能
+* RDFデータグラフを様々なRDF構文 (Turtle, JSONLD, RDF/XML, N-Triples)に基づいてファイルにエクスポートする機能
 * RDFSファイルをインポートし，RDFSデータモデルを視覚的に表示・編集する機能
-* RDFSデータグラフを様々なRDF構文 (RDF/XML, N-Triple, N3)に基づいてRDFSファイルにエクスポートする機能
+* RDFSデータグラフを様々なRDF構文 (Turtle, JSONLD, RDF/XML, N-Triples)に基づいてRDFSファイルにエクスポートする機能
 * RDFリソースタイプの変更をRDFSクラス及びRDFSプロパティの定義域及び値域に反映させる機能
 * RDFプロパティの変更をRDFSプロパティに反映させる機能
 * RDFSクラス及びプロパティの変更をRDFリソースのタイプ及びプロパティに反映させる機能
 
-
 # メンバー
-* [森田 武史](http://takeshi-morita.jp/index-ja.html) (慶應義塾大学 理工学部)
+* [森田 武史](https://takeshi-morita.jp/index-ja.html) (慶應義塾大学 理工学部)
 * [福田 直樹](http://whitebear.cs.inf.shizuoka.ac.jp/index-j?dmy=x) (静岡大学 情報学部)
 * 和泉 憲明 (産業技術総合研究所)
 * [山口 高平](http://www.yamaguti.comp.ae.keio.ac.jp/) (慶應義塾大学 理工学部)

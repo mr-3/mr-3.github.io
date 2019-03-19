@@ -4,22 +4,17 @@ title: Download
 permalink: /download.html
 ---
 
-* <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup> 1.0.1</a>
+* <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup> 2019.03_1</a>
 * [Document (EPUB)](http://readthedocs.org/projects/mrcube/downloads/epub/latest/)
 
 # License
 MR<sup>3</sup> is Free Software; you may redistribute it and/or modify it under the terms of the [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) as published by the Free Software Foundation; either version 2, or (at your option) any later version.
  
 # Used Libraries
-* [JGraph](http://www.jgraph.com/)
-* [Jena 2 Semantic Web Toolkit](http://jena.sourceforge.net/)
-* [InfoNode Docking Windows](http://www.infonode.net/index.html?idw)
-* [JGraphAddons](http://www.jgraph.com/)
-* [Drawing Graphs with VGJ](http://www.eng.auburn.edu/department/cse/research/graph_drawing/graph_drawing.html)
-* [JFontChooser](http://jfontchooser.sourceforge.jp/)
-* [Jakarta ORO](http://attic.apache.org/projects/jakarta-oro.html)
-* [Silk Icons](http://www.famfamfam.com/)
-* [exewrap](http://exewrap.sourceforge.jp/)
+* [JGraph and JGraphAddons](http://www.jgraph.com/)([License](https://github.com/jgraph/legacy-jgraph5/blob/master/LICENSE)]
+* [Apache Jena](https://jena.apache.org/)([License](http://www.apache.org/licenses/LICENSE-2.0))
+* [Drawing Graphs with VGJ](http://www.eng.auburn.edu/department/cse/research/graph_drawing/graph_drawing.html)([License](http://www.eng.auburn.edu/department/cse/research/graph_drawing/COPYING))
+* [Material Design icons by Google](https://github.com/google/material-design-icons)([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
 
 # Acknowledgements
 * Mr. Toshio Ueda gave us a lot of comments.
