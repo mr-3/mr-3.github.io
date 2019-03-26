@@ -30,13 +30,12 @@ In order to reflect the change of RDF or RDFS contents on the other, the tool su
 
 The above function consisted of the following sub-functions.
 
-* Transformation of RDF resources into graphical representation of RDF data model, including the management of different RDF resources and mapping the additional information to RDFS.
-* Transformation of RDF data graph into RDF resource, including name-space management.
-* Transformation of RDFS resources into graphical representation of RDF data model, including the management of different RDFS resources and visualize the side effects to the corresponding RDF resource.
-* Transformation of RDFS data graph into RDFS resource, including name-space management.
-* Reflecting the change of RDF resources on the corresponding RDFS resources, not only editing RDF resources but also loading new resources.
-* Reflecting the change of RDFS resources on the corresponding RDF resources, as the same time above.
-
+* Importing an RDF(S) document and editing the RDF(S) data model graphically.
+* Exporting an RDF(S) data model as an RDF(S) document based on various formats such as Turtle, JSONLD, RDF/XML, and N-Triples.
+* Reflecting changes of RDFS class to RDF resource type.
+* Reflecting changes of RDFS property to RDF property.
+* Reflecting the change of RDF resource type to the RDFS class and domains and ranges of RDFS property.
+* Reflecting changes of RDF property to RDFS property.
 
 # Members
 * [Takeshi Morita](https://takeshi-morita.jp/) (Faculty of Science and Technology, Keio University, Japan)
