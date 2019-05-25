@@ -1,3 +1,6 @@
 # mr-3.github.io
 
-http://mr-3.github.io/javadoc/
+## Related GitHub repositories
+* https://github.com/mr-3/mrcube/
+* https://github.com/mr-3/mrcube-ja-docs
+* https://github.com/mr-3/mrcube-en-docs

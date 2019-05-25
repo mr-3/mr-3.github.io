@@ -4,6 +4,7 @@ permalink: /index.html
 ---
 
 # What’s New
+* 2019-05-25: MR<sup>3</sup> 2019.05_1 Released.
 * 2019-03-06: MR<sup>3</sup> 2019.03_1 Released.
 * 2016-04-14: MR<sup>3</sup> 1.0.1 Released.
 * 2015-03-16: MR<sup>3</sup> 1.0 Released.
