@@ -4,13 +4,14 @@ ja_title: ダウンロード
 permalink: /download-ja.html
 ---
 
-* <a href="https://github.com/mr-3/MR3/releases">MR<sup>3</sup> 2019.05_1</a>
+* <a href="https://github.com/mr-3/MR3/releases">MR<sup>3</sup> 20.5.1</a>
 * [ドキュメント (EPUB)](http://readthedocs.org/projects/mrcube-ja/downloads/epub/latest/)
 
 # ライセンス
 MR<sup>3</sup>はフリーソフトウェアです．Free Software Foundation による [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) のバージョン2 （または，それ以降のバージョン）に従う限り自由に変更し再配布することができます．
 
 # 利用ライブラリ
+* [FlatLaf - Flat Look and Feel](https://www.formdev.com/flatlaf/)([License](http://www.apache.org/licenses/LICENSE-2.0))
 * [JGraph and JGraphAddons](http://www.jgraph.com/)([License](https://github.com/jgraph/legacy-jgraph5/blob/master/LICENSE)]
 * [Apache Jena](https://jena.apache.org/)([License](http://www.apache.org/licenses/LICENSE-2.0))
 * [Apache Batik SVG Toolkit](https://xmlgraphics.apache.org/batik/)([License](https://xmlgraphics.apache.org/batik/license.html))

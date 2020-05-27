@@ -4,10 +4,9 @@ permalink: /index-ja.html
 ---
 
 # 新着情報
+* 2020-05-27: MR<sup>3</sup> 20.5.1 公開．
 * 2019-05-25: MR<sup>3</sup> 2019.05_1 公開.
 * 2019-03-06: MR<sup>3</sup> 2019.03_1 公開.
-* 2016-04-14: MR<sup>3</sup> 1.0.1 公開.
-* 2015-03-16: MR<sup>3</sup> 1.0 公開.
 
 [更新履歴](history-ja.html)
 
@@ -44,10 +43,10 @@ RDFとRDFSの間の整合性を管理し，変更を双方向に反映させる�
 * RDFSクラス及びプロパティの変更をRDFリソースのタイプ及びプロパティに反映させる機能
 
 # メンバー
-* [森田 武史](https://takeshi-morita.jp/index-ja.html) (慶應義塾大学 理工学部)
-* [福田 直樹](http://whitebear.cs.inf.shizuoka.ac.jp/index-j?dmy=x) (静岡大学 情報学部)
-* 和泉 憲明 (産業技術総合研究所)
-* [山口 高平](http://www.yamaguti.comp.ae.keio.ac.jp/) (慶應義塾大学 理工学部)
+* [森田武史](https://takeshi-morita.jp/index-ja.html) (青山学院大学理工学部)
+* [福田直樹](http://whitebear.cs.inf.shizuoka.ac.jp/index-j?dmy=x) (静岡大学情報学部)
+* 和泉憲明 (産業技術総合研究所)
+* [山口高平](http://www.yamaguti.comp.ae.keio.ac.jp/) (慶應義塾大学理工学部)
 
 # 連絡先
-* 森田 武史 (t_morita [at] keio.jp)
+* 森田武史 (morita [at] it.aoyama.ac.jp.jp)

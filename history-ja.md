@@ -3,6 +3,11 @@ layout: ja_page
 title: 更新履歴
 permalink: /history-ja.html
 ---
+# 20.5.1 (2020-05-27)
+* Look and Feelを[FlatLaf - Flat Look and Feel](https://www.formdev.com/flatlaf/)に変更
+* jpackageでWindowsとmacOS用のインストーラを作成
+* その他の変更点については，[GitHub](https://github.com/mr-3/MR3/commits/master)を参照してください
+
 # 2019.05_1 (2019-05-25)
 * SPARQL検索機能を追加
 * SVG形式でグラフ画像ファイルを保存する機能を追加

@@ -4,13 +4,14 @@ title: Download
 permalink: /download.html
 ---
 
-* <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup> 2019.05_1</a>
+* <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup> 20.5.1</a>
 * [Document (EPUB)](http://readthedocs.org/projects/mrcube/downloads/epub/latest/)
 
 # License
 MR<sup>3</sup> is Free Software; you may redistribute it and/or modify it under the terms of the [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) as published by the Free Software Foundation; either version 2, or (at your option) any later version.
  
 # Used Libraries
+* [FlatLaf - Flat Look and Feel](https://www.formdev.com/flatlaf/)([License](http://www.apache.org/licenses/LICENSE-2.0))
 * [JGraph and JGraphAddons](http://www.jgraph.com/)([License](https://github.com/jgraph/legacy-jgraph5/blob/master/LICENSE)]
 * [Apache Jena](https://jena.apache.org/)([License](http://www.apache.org/licenses/LICENSE-2.0))
 * [Apache Batik SVG Toolkit](https://xmlgraphics.apache.org/batik/)([License](https://xmlgraphics.apache.org/batik/license.html))

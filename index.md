@@ -4,10 +4,9 @@ permalink: /index.html
 ---
 
 # What’s New
+* 2020-05-27: MR<sup>3</sup> 20.5.1 Released.
 * 2019-05-25: MR<sup>3</sup> 2019.05_1 Released.
 * 2019-03-06: MR<sup>3</sup> 2019.03_1 Released.
-* 2016-04-14: MR<sup>3</sup> 1.0.1 Released.
-* 2015-03-16: MR<sup>3</sup> 1.0 Released.
 
 [Change log](https://github.com/mr-3/MR3/commits/master)
 
@@ -39,10 +38,10 @@ The above function consisted of the following sub-functions.
 * Reflecting changes of RDF property to RDFS property.
 
 # Members
-* [Takeshi Morita](https://takeshi-morita.jp/) (Faculty of Science and Technology, Keio University, Japan)
+* [Takeshi Morita](https://takeshi-morita.jp/) (College of Science and Engineering, Aoyama Gakuin University, Japan)
 * [Naoki Fukuta](http://whitebear.cs.inf.shizuoka.ac.jp/index?) (Department of Computer Science, Shizuoka University, Japan)
 * Noriaki Izumi (National Institute of Advanced Industrial Science and Technology, Japan)
 * [Takahira Yamaguchi](http://www.yamaguti.comp.ae.keio.ac.jp/) (Faculty of Science and Technology, Keio University, Japan)
 
 # Contact
-* Takeshi Morita (t_morita [at] keio.jp)
+* Takeshi Morita (morita [at] it.aoyama.ac.jp)
