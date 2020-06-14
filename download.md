@@ -4,7 +4,7 @@ title: Download
 permalink: /download.html
 ---
 
-* <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup> 20.5.1</a>
+* <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup></a>
 * [Document (EPUB)](http://readthedocs.org/projects/mrcube/downloads/epub/latest/)
 
 # License

@@ -3,6 +3,10 @@ layout: ja_page
 title: 更新履歴
 permalink: /history-ja.html
 ---
+# 20.6.1 (2020-06-14)
+* RDFエディタ上の属性ダイアログから，RDFタイプを編集する際にエラーが発生していたのを修正
+* その他の変更点については，[GitHub](https://github.com/mr-3/MR3/commits/master)を参照してください
+
 # 20.5.1 (2020-05-27)
 * Look and Feelを[FlatLaf - Flat Look and Feel](https://www.formdev.com/flatlaf/)に変更
 * jpackageでWindowsとmacOS用のインストーラを作成
