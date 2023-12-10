@@ -43,5 +43,21 @@ RDFとRDFSの間の整合性を管理し，変更を双方向に反映させる�
 * RDFプロパティの変更をRDFSプロパティに反映させる機能
 * RDFSクラス及びプロパティの変更をRDFリソースのタイプ及びプロパティに反映させる機能
 
+# 発表論文
+Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, “A Graphical RDF-based Meta-Model Management Tool”, IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377, (2006), DOI: [10.1093/ietisy/e89-d.4.1368](http://doi.org/10.1093/ietisy/e89-d.4.1368)
+
+```
+@article{Morita2006,
+  title={A Graphical RDF-based Meta-Model Management Tool},
+  author={Takeshi MORITA and Naoki FUKUTA and Noriaki IZUMI and Takahira YAMAGUCHI},
+  journal={IEICE Transactions on Information and Systems},
+  volume={E89.D},
+  number={4},
+  pages={1368-1377},
+  year={2006},
+  doi={10.1093/ietisy/e89-d.4.1368}
+}
+```
+
 # 連絡先
 * 森田武史 (morita [at] it.aoyama.ac.jp.jp)
