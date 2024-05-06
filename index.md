@@ -4,10 +4,9 @@ permalink: /index.html
 ---
 
 # What’s New
+* 2024-05-06: MR<sup>3</sup> 24.5.1 Released.
 * 2022-05-16: MR<sup>3</sup> 22.5.2 Released.
 * 2022-05-03: MR<sup>3</sup> 22.5.1 Released.
-* 2020-06-14: MR<sup>3</sup> 20.6.1 Released.
-* 2020-05-27: MR<sup>3</sup> 20.5.1 Released.
 
 [Change log](https://github.com/mr-3/MR3/commits/master)
 
