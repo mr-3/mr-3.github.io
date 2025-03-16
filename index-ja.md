@@ -4,9 +4,9 @@ permalink: /index-ja.html
 ---
 
 # 新着情報
+* 2023-03-16: MR<sup>3</sup> 25.3.1 公開．
 * 2024-05-06: MR<sup>3</sup> 24.5.1 公開．
 * 2022-05-16: MR<sup>3</sup> 22.5.2 公開．
-* 2022-05-03: MR<sup>3</sup> 22.5.1 公開．
 
 [更新履歴](history-ja.html)
 
