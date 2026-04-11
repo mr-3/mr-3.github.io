@@ -5,7 +5,6 @@ permalink: /download.html
 ---
 
 * <a href="https://github.com/mr-3/MR3/releases/">MR<sup>3</sup></a>
-* [Document (EPUB)](http://readthedocs.org/projects/mrcube/downloads/epub/latest/)
 
 # License
 MR<sup>3</sup> is Free Software; you may redistribute it and/or modify it under the terms of the [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) as published by the Free Software Foundation; either version 2, or (at your option) any later version.
@@ -23,5 +22,5 @@ MR<sup>3</sup> is Free Software; you may redistribute it and/or modify it under 
 
 # Acknowledgements
 * Mr. Toshio Ueda gave us a lot of comments.
-* Mr. Tei Tou made the [Chinese Language File](https://github.com/mr-3/MR3/blob/master/src/main/java/net/sourceforge/mr3/resources/MR3_zh.properties) (including MR<sup>3</sup> 1.0RC5 or later)
+* Mr. Tei Tou made the [Chinese Language File](https://github.com/mr-3/mrcube/blob/master/src/main/resources/MR3_zh.properties) (including MR<sup>3</sup> 1.0RC5 or later)
 
