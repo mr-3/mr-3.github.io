@@ -10,14 +10,15 @@ permalink: /download-ja.html
 MR<sup>3</sup>はフリーソフトウェアです．Free Software Foundation による [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) のバージョン2 （または，それ以降のバージョン）に従う限り自由に変更し再配布することができます．
 
 # 利用ライブラリ
-* [FlatLaf - Flat Look and Feel](https://www.formdev.com/flatlaf/)([License](http://www.apache.org/licenses/LICENSE-2.0))
-* [JGraph and JGraphAddons](http://www.jgraph.com/)([License](https://github.com/jgraph/legacy-jgraph5/blob/master/LICENSE)]
-* [Apache Jena](https://jena.apache.org/)([License](http://www.apache.org/licenses/LICENSE-2.0))
-* [Apache Batik SVG Toolkit](https://xmlgraphics.apache.org/batik/)([License](https://xmlgraphics.apache.org/batik/license.html))
-* [Drawing Graphs with VGJ](http://www.eng.auburn.edu/department/cse/research/graph_drawing/graph_drawing.html)([License](http://www.eng.auburn.edu/department/cse/research/graph_drawing/COPYING))
-* [Material Design icons by Google](https://github.com/google/material-design-icons)([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
-* [Badass Runtime Plugin](https://github.com/beryx/badass-runtime-plugin)([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
-* [Shadow](https://github.com/GradleUp/shadow)([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
+* [Liberica Standard JDK](https://bell-sw.com/pages/downloads/#jdk-21-lts) ([License](https://bell-sw.com/liberica_eula/))
+* [FlatLaf - Flat Look and Feel](https://www.formdev.com/flatlaf/) ([License](http://www.apache.org/licenses/LICENSE-2.0))
+* [JGraph and JGraphAddons](http://www.jgraph.com/) ([License](https://github.com/jgraph/legacy-jgraph5/blob/master/LICENSE)]
+* [Apache Jena](https://jena.apache.org/) ([License](http://www.apache.org/licenses/LICENSE-2.0))
+* [Apache Batik SVG Toolkit](https://xmlgraphics.apache.org/batik/) ([License](https://xmlgraphics.apache.org/batik/license.html))
+* [Drawing Graphs with VGJ](http://www.eng.auburn.edu/department/cse/research/graph_drawing/graph_drawing.html) ([License](http://www.eng.auburn.edu/department/cse/research/graph_drawing/COPYING))
+* [Material Design icons by Google](https://github.com/google/material-design-icons) ([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
+* [Badass Runtime Plugin](https://github.com/beryx/badass-runtime-plugin) ([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
+* [Shadow](https://github.com/GradleUp/shadow) ([License](https://www.apache.org/licenses/LICENSE-2.0.txt))
 
 
 # 謝辞
