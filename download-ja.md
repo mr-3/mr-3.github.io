@@ -4,7 +4,24 @@ ja_title: ダウンロード
 permalink: /download-ja.html
 ---
 
-* <a href="https://github.com/mr-3/MR3/releases">MR<sup>3</sup></a>
+* [MR<sup>3</sup>のインストーラ](https://github.com/mr-3/MR3/releases) 
+
+# インストール方法
+## Windows
+1. [Microsoft StoreのMRCubeのページ]( https://apps.microsoft.com/detail/9nmgtwtl1fvg?hl=ja-JP&gl=JP) にアクセスし，「Microsoft Store で見る」ボタンをクリックする． 
+2. 「インストール」ボタンをクリックする．
+3. デスクトップに作成されるショートカットを実行する．
+
+## macOS (dmgファイル)
+1. [ダウンロードページ](https://github.com/mr-3/mrcube/releases) から **mrcube-26.4.2.dmg** をダウンロードしてファイルを開く．
+2. 「MRCube.app」をApplicationsディレクトリにドラッグアンドドロップし，「MRCube.app」を実行する．
+3. 「“MRCube”はインターネットからダウンロードされたアプリケーションです。開いてもよろしいですか?」と表示されるため，「開く」ボタンをクリックする．
+
+## macOS (Homebrew)
+1. [Homebrew](https://brew.sh/) をインストールする．
+2. ターミナル.appから ``brew tap mr-3/tap`` と ``brew install --cask mrcube`` を実行する．
+3. Applicationsディレクトリの中の「MRCube.app」を実行する．
+4. 「“MRCube”はインターネットからダウンロードされたアプリケーションです。開いてもよろしいですか?」と表示されるため，「開く」ボタンをクリックする．
 
 # ライセンス
 MR<sup>3</sup>はフリーソフトウェアです．Free Software Foundation による [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) のバージョン2 （または，それ以降のバージョン）に従う限り自由に変更し再配布することができます．
