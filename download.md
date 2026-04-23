@@ -13,7 +13,7 @@ permalink: /download.html
 3. Run the shortcut created on your desktop.
 
 ## macOS (dmg file)
-1. Download and extract **mrcube-26.4.2.dmg** from the [download page](https://github.com/mr-3/mrcube/releases) and copy **MRCube.app** to the 'Applications' folder.
+1. Download and extract **mrcube-26.4.3.dmg** from the [download page](https://github.com/mr-3/mrcube/releases) and copy **MRCube.app** to the 'Applications' folder.
 2. Run **MRCube.app**.
 3. When the message '"MRCube" is an application downloaded from the Internet. Are you sure you want to open it?' appears, click the "Open" button.
 

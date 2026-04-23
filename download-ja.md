@@ -13,7 +13,7 @@ permalink: /download-ja.html
 3. デスクトップに作成されるショートカットを実行する．
 
 ## macOS (dmgファイル)
-1. [ダウンロードページ](https://github.com/mr-3/mrcube/releases) から **mrcube-26.4.2.dmg** をダウンロードしてファイルを開く．
+1. [ダウンロードページ](https://github.com/mr-3/mrcube/releases) から **mrcube-26.4.3.dmg** をダウンロードしてファイルを開く．
 2. 「MRCube.app」をApplicationsディレクトリにドラッグアンドドロップし，「MRCube.app」を実行する．
 3. 「“MRCube”はインターネットからダウンロードされたアプリケーションです。開いてもよろしいですか?」と表示されるため，「開く」ボタンをクリックする．
 
